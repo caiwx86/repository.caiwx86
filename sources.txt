@@ -1,0 +1,3 @@
+caiwx86/plugin.video.emby
+wabisabi926/skin.arctic.fuse.3
+forbxy/repository.forbxy
