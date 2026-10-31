@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.caiwx86" name="kodi caiwx86 Add-on repository" version="1.2.0" provider-name="caiwx86">
+    <extension point="xbmc.addon.repository" name="kodi caiwx86 Add-on repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/caiwx86/repository.caiwx86/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/caiwx86/repository.caiwx86/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/caiwx86/repository.caiwx86/master/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>caiwx86's Kodi Add-on Repository</summary>
+        <description>A repository for custom Kodi add-ons.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.jpg</icon>
+        </assets>
+    </extension>
+</addon>
