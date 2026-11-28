@@ -1,0 +1,11 @@
+caiwx86/plugin.video.emby
+caiwx86/skin.arctic.fuse.2
+caiwx86/skin.arctic.fuse.3
+caiwx86/service.misaka.danmaku
+caiwx86/script.arcticfuse.focus
+wabisabi926/plugin.video.themoviedb.helper
+forbxy/repository.forbxy
+signde/script.tinyppi
+signde/resource.images.mediaflags.signde
+flhs0606/systemtools
+flhs0606/plugin.video.bili
